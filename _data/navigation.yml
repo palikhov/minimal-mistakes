@@ -8,7 +8,7 @@ main:
     url: https://google.com
     
 # sidebar navigation list sample
-docs:
+roll20-guide:
   - title: "Базовое руководство"
     children:
       - title: "Child Page A1"
