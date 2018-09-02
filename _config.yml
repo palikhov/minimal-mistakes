@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Развлечения ради"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Anton Palikhov aka Palant"
+description              : "Руководство по Roll20 и прочее связанное с D&D"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,20 +100,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Anton Palikhov aka Palant"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Arcanist"
+  location         : "Ukraine"
+  email            : "a.v.palikhov@outlook.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : a.palikhov
   foursquare       :
-  github           :
+  github           : palikhov
   gitlab           :
   google_plus      :
   keybase          :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : AVPalikhov
   vine             :
   weibo            :
   xing             :
@@ -136,6 +136,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _roll20-guide
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -278,6 +279,6 @@ defaults:
       read_time: false
       author_profile: false
       share: true
-      comments: true
+      comments: 
       sidebar:
         nav: "roll20-guide"
