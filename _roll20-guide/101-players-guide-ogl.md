@@ -458,52 +458,6 @@ Damage #NOTE: space before and after (affects damage modifier)
 
 
 
-## USER CREATED MACROS
-
-Resources
-```
-/w @{character_name} &{template:atk} {{desc=**@{selected|token_name}**
-==
-@{selected|alignment}  @{selected|race}  @{selected|background} 
-==
-HP: [[ @{selected|hp} ]] /  [[ @{selected|hp|max} ]]
-AC: @{selected|ac} Speed: @{selected|speed} 
-Pasive Perception:
-Senses: 
-Languages: 
-===
-*Resources*
-@{selected|other_resource_name}: [[@{selected|other_resource}]] / [[@{selected|multiclass1_lvl}*5]] HP ||| *LR*
-@{selected|class_resource_name}: [[@{selected|class_resource}]] / [[01]] ||| *SR*
-@: [[@{selected|class_resource}]] / [[1]] ||| *SR*
-Divine Sense: [[@{selected|class_resource}]] / [[1+@{selected|charisma_mod}]] ||| *LR*
-Encumbrance
-Total Weight: [[@{selected|weighttotal}]] / [[@{selected|strength}*15]] lb}} 
-
-```
-
- Appearance
-
-```
-?{Whisper?|Yes,/w gm |No, }&{template:desc} {{desc=**@{selected|token_name}**
-Возраст:  @{selected|age} 
-==
-**Рост:** @{selected|height} **Вес:** @{selected|weight} 
-==
-Возраст:  @{selected|age} 
-==
-**Глаза:** @{selected|eyes} **Кожа:** @{selected|skin} **Волосы:** @{selected|hair} 
-==
-**Общее описание внешности:** @{selected|character_appearance} }}
-```
-
-```
-?{Whisper?|Yes,/w gm |No, }&{template:desc}{{desc=@{selected|allies_and_organizations} }}
-```
-
-
-
-###
 
 https://app.roll20.net/forum/post/4142821/slug%7D
 
@@ -524,42 +478,6 @@ The Ammunition field text is: {{desc=**Ki-points:** @{class_resource}/@{Sturmak|
 
 
 
-```
-EQUIPMENT
-===========
-Head:
-===========
-Eyes: 
-===========
-Amulet:
-===========
-Gloves: 
-===========
-Ring 1:
-===========
-Ring 2:
-===========
-Ring 3:
-===========
-Ring 4:
-===========
-Armor: 
-===========
-Boots:
-===========
-Belt: 
-===========
-Bonded weapons: Шпага Паука, Создатель теней
-===========
-Щит: 
-===========
-Плащ: 
-===========
-Перевязь грудная: 
-==========
-Ходит сильно хромая на левую ногу.
-==========
-```
 # Документация по 5eOGL Roll20 Character Sheet
 * Информация и описание листа персонажа на Roll20 wiki[Character Sheet Info on Roll20 Wiki](https://wiki.roll20.net/5th_Edition_OGL_by_Roll20)
 * Детальное описание template на Roll20 wiki [Roll Templates which are used in 5eOGL Roll20 Character Sheet](https://wiki.roll20.net/D%26D_5e_OGL_Roll_Templates)
