@@ -1,3 +1,13 @@
+---
+title: "Руководство Паланта по Roll20"
+permalink: /roll20-wiki/palant-roll20-guide/
+excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
+last_modified_at: 2018-07-19T11:31:38-04:00
+redirect_from:
+  - /palant-roll20-wiki/
+toc: true
+---
+
 **В ВИДУ ПИЗДЕЦА С ССЫЛКАМИ - ВСЕ ВОПРОСЫ ЧЕРЕЗ ДИСКОРД https://discord.gg/dqcaC9**
 
 
