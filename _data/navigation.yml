@@ -17,44 +17,43 @@ main:
 roll20-wiki:
   - title: Общие вопросы и руководства по Roll20
     children:
-      - title: "Quick-Start Guide"
-        url: /roll20-wiki/quick-start-guide/
-      - title: "Structure"
-        url: /roll20-wiki/structure/
-      - title: "Installation"
-        url: /roll20-wiki/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-
+      - title: "Руководство Паланта по настройке Roll20"
+        url: /roll20-wiki/palant-roll20-setup/
+      - title: "Советы по поводу настройки бросков костей в Roll20"
+        url: /roll20-wiki/how-to-roll/
+      - title: "Roll templates Шаблоны бросков"
+        url: /roll20-wiki/roll-templates/
+      - title: "Руководство по макросам для игроков"
+        url: /roll20-wiki/players-guide-to-macros/
+       - title: "Token Actions - Действия токена"
+        url: /roll20-wiki/tokens/
+       - title: "Token Actions - Действия токена"
+        url: /roll20-wiki/tokens/
+       - title: "Использование Журнала (Journal) в Roll20"
+        url: /roll20-wiki/journal-advanced-use/
+       - title: "Изменение внешнего вида"
+        url: /roll20-wiki/roll20-stylish/
+        - title: "Полезные трюки"
+        url: /roll20-wiki/roll20-tricks/
   - title: D&D 5e OGL by Roll20
     children:
       - title: "Руководство для игроков OGL"
         url: /roll20-wiki/players-guide-ogl/
       - title: "Руководство для мастеров OGL"
         url: /roll20-wiki/dm-guide-ogl/
-      - title: "UI Text"
-        url: /roll20-wiki/ui-text/
-      - title: "Authors"
-        url: /roll20-wiki/authors/
-      - title: "Layouts"
-        url: /roll20-wiki/layouts/
-
   - title: 5e Shaped
     children:
       - title: "Руководство для игроков Shaped"
         url: /roll20-wiki/players-guide-shaped/
       - title: "Руководство для мастеров Shaped"
         url: /roll20-wiki//dm-guide-shaped/
-      - title: "Working with Collections"
-        url: /roll20-wiki/collections/
-      - title: "Helpers"
-        url: /roll20-wiki/helpers/
-      - title: "Utility Classes"
-        url: /roll20-wiki/utility-classes/
-
-  - title: Extras
+  - title: Дополнения Excel Companion (Shaped)
     children:
-      - title: "Stylesheets"
-        url: /roll20-wiki/stylesheets/
-      - title: "JavaScript"
-        url: /roll20-wiki/javascript/
+      - title: "Roll20 NPC Companion"
+        url: /roll20-wiki/shaped-excel-npc/
+      - title: "Roll20 Shaped Character Builder Excel Companion"
+        url: /roll20-wiki/shaped-excel-pc/
+      - title: "Roll20 Tables Companion"
+        url: /roll20-wiki/shaped-excel-tables/
+      - title: "Roll20 Shaped Spellbook Manager Companion"
+        url: /roll20-wiki/shaped-excel-tables/
