@@ -2,7 +2,7 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "Roll20 Guide"
     url: /year-archive/
   - title: "Categories"
     url: /categories/
@@ -20,7 +20,7 @@ roll20-wiki:
   - title: Общие вопросы и руководства по Roll20
     children:
       - title: "Руководство Паланта по настройке Roll20"
-        url: /roll20-wiki/palant-roll20-setup/
+        url: /roll20-wiki/palant-roll20-guide/
       - title: "Советы по поводу настройки бросков костей в Roll20"
         url: /roll20-wiki/how-to-roll/
       - title: "Roll templates Шаблоны бросков"
