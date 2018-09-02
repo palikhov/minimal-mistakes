@@ -138,7 +138,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _roll20-guide
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -286,6 +285,6 @@ defaults:
       read_time: false
       author_profile: false
       share: true
-      comments: 
+      comments: false
       sidebar:
         nav: "roll20-guide"
