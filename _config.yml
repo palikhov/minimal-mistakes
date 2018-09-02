@@ -111,9 +111,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : a.palikhov
+  facebook         : "a.palikhov"
   foursquare       :
-  github           : palikhov
+  github           : "palikhov"
   gitlab           :
   google_plus      :
   keybase          :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : AVPalikhov
+  twitter          : "AVPalikhov"
   vine             :
   weibo            :
   xing             :
