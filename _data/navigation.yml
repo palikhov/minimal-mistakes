@@ -19,8 +19,8 @@ main:
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "Руководство Паланта по настройке Roll20"
+        url: /roll20-wiki/palant-roll20-guide/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
