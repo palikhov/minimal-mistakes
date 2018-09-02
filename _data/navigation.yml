@@ -16,7 +16,7 @@ main:
     url: https://google.com
     
 # documentation links
-docs:
+roll20-guide:
   - title: Getting Started
     children:
       - title: "Руководство Паланта по настройке Roll20"
