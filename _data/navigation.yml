@@ -29,8 +29,8 @@ docs:
         url: /docs/upgrading/
   - title: Customization
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
+      - title: "Руководство для игроков OGL"
+        url: /roll20-wiki/players-guide-ogl/
       - title: "Overriding Theme Defaults"
         url: /docs/overriding-theme-defaults/
       - title: "Navigation"
