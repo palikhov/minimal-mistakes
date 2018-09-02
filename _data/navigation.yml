@@ -15,50 +15,62 @@ main:
   - title: "External Link"
     url: https://google.com
     
-# roll20 wiki links
-roll20-wiki:
-  - title: "Общие вопросы и руководства по Roll20"
+# documentation links
+docs:
+  - title: Getting Started
     children:
-      - title: "Руководство Паланта по настройке Roll20"
-        url: /roll20-wiki/palant-roll20-guide/
-      - title: "Советы по поводу настройки бросков костей в Roll20"
-        url: /roll20-wiki/how-to-roll/
-      - title: "Roll templates Шаблоны бросков"
-        url: /roll20-wiki/roll-templates/
-      - title: "Руководство по макросам для игроков"
-        url: /roll20-wiki/players-guide-to-macros/
-       - title: "Token Actions - Действия токена"
-        url: /roll20-wiki/tokens/
-       - title: "Token Actions - Действия токена"
-        url: /roll20-wiki/tokens/
-       - title: "Использование Журнала (Journal) в Roll20"
-        url: /roll20-wiki/journal-advanced-use/
-       - title: "Изменение внешнего вида"
-        url: /roll20-wiki/roll20-stylish/
-        - title: "Полезные трюки"
-        url: /roll20-wiki/roll20-tricks/
-  - title: "D&D 5e OGL by Roll20"
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+  - title: Customization
     children:
-      - title: "Руководство для игроков OGL"
-        url: /roll20-wiki/players-guide-ogl/
-      - title: "Руководство для мастеров OGL"
-        url: /roll20-wiki/dm-guide-ogl/
-  - title: "5e Shaped"
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Overriding Theme Defaults"
+        url: /docs/overriding-theme-defaults/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
+  - title: Content
     children:
-      - title: "Руководство для игроков Shaped"
-        url: /roll20-wiki/players-guide-shaped/
-      - title: "Руководство для мастеров Shaped"
-        url: /roll20-wiki//dm-guide-shaped/
-  - title: "Дополнения Excel Companion (Shaped)"
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
+  - title: Extras
     children:
-      - title: "Roll20 NPC Companion"
-        url: /roll20-wiki/shaped-excel-npc/
-      - title: "Roll20 Shaped Character Builder Excel Companion"
-        url: /roll20-wiki/shaped-excel-pc/
-      - title: "Roll20 Tables Companion"
-        url: /roll20-wiki/shaped-excel-tables/
-      - title: "Roll20 Shaped Spellbook Manager Companion"
-        url: /roll20-wiki/shaped-excel-tables/
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/
+  - title: Meta
+    children:
+      - title: "History"
+        url: /docs/history/
+      - title: "Contributing"
+        url: /docs/contributing/
+      - title: "Old 2.2 Docs"
+        url: /docs/docs-2-2/
+      - title: "License"
+        url: /docs/license/
+      - title: "Terms &amp; Privacy Policy"
+        url: /terms/
 
 # sidebar navigation list sample
 sidebar-sample:
