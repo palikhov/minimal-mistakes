@@ -3,15 +3,9 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Roll20 Guide"
-    url: /roll20-guide/
+    url: /palant-roll20-guide/
   - title: "About"
     url: /about/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
   - title: "External Link"
     url: https://google.com
     
