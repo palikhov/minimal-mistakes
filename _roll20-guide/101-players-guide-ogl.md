@@ -478,7 +478,8 @@ Languages:
 @: [[@{selected|class_resource}]] / [[1]] ||| *SR*
 Divine Sense: [[@{selected|class_resource}]] / [[1+@{selected|charisma_mod}]] ||| *LR*
 Encumbrance
-Total Weight: [[@{selected|weighttotal}]] / [[@{selected|strength}*15]]}} lb
+Total Weight: [[@{selected|weighttotal}]] / [[@{selected|strength}*15]] lb}} 
+
 ```
 
  Appearance
