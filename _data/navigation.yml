@@ -4,8 +4,8 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Roll20 Guide"
     url: /roll20-wiki/palant-roll20-guide/
-  - title: "Categories"
-    url: /categories/
+  - title: "About"
+    url: /about/
   - title: "Tags"
     url: /tags/
   - title: "Pages"
