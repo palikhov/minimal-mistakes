@@ -462,15 +462,15 @@ Damage #NOTE: space before and after (affects damage modifier)
 https://app.roll20.net/forum/post/4142821/slug%7D
 
 The complete text of the Greatsword Customization:
-Whatever the description for your attack is [Divine Smite](~Weapon Options|repeating_attack_$1_attack)}} {{r1=[[1d20cs>@{atkcritrange} + [[@{atkattr_base}]] + @{atkmod} + [[@{atkprofflag}]][PROF]?{Bless|No, |Yes, + 1d4cs>5cf<0[Bless]}?{Sacred|No, |Yes, + [[@{charisma_mod}]][Sacred]}?{Great Weapon Master|No, 0|Yes, -5[Great Weapon Master]}]]}} {{r2=[[1d20cs>@{atkcritrange} + [[@{atkattr_base}]] + @{atkmod} + [[@{atkprofflag}]][PROF]?{Bless}?{Sacred}?{Great Weapon Master}]]}} {{dmg1=[[@{dmgbase}+[[@{dmgattr}]] +@{dmgmod}[MOD]?{Great Weapon Master}*-2]]
+Whatever the description for your attack is ```[Divine Smite](~Weapon Options|repeating_attack_$1_attack)}} {{r1=[[1d20cs>@{atkcritrange} + [[@{atkattr_base}]] + @{atkmod} + [[@{atkprofflag}]][PROF]?{Bless|No, |Yes, + 1d4cs>5cf<0[Bless]}?{Sacred|No, |Yes, + [[@{charisma_mod}]][Sacred]}?{Great Weapon Master|No, 0|Yes, -5[Great Weapon Master]}]]}} {{r2=[[1d20cs>@{atkcritrange} + [[@{atkattr_base}]] + @{atkmod} + [[@{atkprofflag}]][PROF]?{Bless}?{Sacred}?{Great Weapon Master}]]}} {{dmg1=[[@{dmgbase}+[[@{dmgattr}]] +@{dmgmod}[MOD]?{Great Weapon Master}*-2]]```
 
 And the formula in Divine Smite's Damage field for autocalcing the number of Divine Smite Dice to roll:
-2d8 + [[?{Spell Level|1}-1]]d8[Higher Level Spell Slot]?{Undead Target|No, |Yes, +1d8[Undead Target]}
+```2d8 + [[?{Spell Level|1}-1]]d8[Higher Level Spell Slot]?{Undead Target|No, |Yes, +1d8[Undead Target]}```
 
 
-The Save Effect field text is: ?{Firearm Special Attack|None, &#125;&#125; {{save=|Flurry - Head, **Success:**makes attacks normally **Failure:** makes attacks with disadvantage till end of their next turn&#125;&#125; {{saveattr=Constitution|Flurry – Arms, **Success:** retains hold of item **Failure:** drops one held item of my choice|Flurry – Torso, **Success:** Is unmoved **Failure:** pushed back up to 10-ft| Flurry – Legs, **Success:** Remains upright **Failure:** knocked prone}
+The Save Effect field text is: ```?{Firearm Special Attack|None, &#125;&#125; {{save=|Flurry - Head, **Success:**makes attacks normally **Failure:** makes attacks with disadvantage till end of their next turn&#125;&#125; {{saveattr=Constitution|Flurry – Arms, **Success:** retains hold of item **Failure:** drops one held item of my choice|Flurry – Torso, **Success:** Is unmoved **Failure:** pushed back up to 10-ft| Flurry – Legs, **Success:** Remains upright **Failure:** knocked prone}```
 
-The Ammunition field text is: {{desc=**Ki-points:** @{class_resource}/@{Sturmak|class_resource|max} ?{Magic Bonus|Normal Ammo [@{repeating_resource_$2_resource_left}],**Ammo** @{repeating_resource_$2_resource_left}|@{repeating_resource_$0_resource_left}|+1 Bullet [@{repeating_resource_$0_resource_right}],``**+1 Ammo:** @{repeating_resource_$0_resource_right}|@{repeating_resource_$0_resource_left}``}}}
+The Ammunition field text is: ```{{desc=**Ki-points:** @{class_resource}/@{Sturmak|class_resource|max} ?{Magic Bonus|Normal Ammo [@{repeating_resource_$2_resource_left}],**Ammo** @{repeating_resource_$2_resource_left}|@{repeating_resource_$0_resource_left}|+1 Bullet [@{repeating_resource_$0_resource_right}],``**+1 Ammo:** @{repeating_resource_$0_resource_right}|@{repeating_resource_$0_resource_left}``}}}```
 
 
 
