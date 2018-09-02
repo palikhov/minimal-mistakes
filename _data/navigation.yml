@@ -14,7 +14,7 @@ roll20-guide:
   - title: "Базовое руководство"
     children:
       - title: "Child Page A1"
-        url: /
+        url: /roll20-guide/main/
       - title: "Child Page A2"
         url: /
       - title: "Child Page A3"
