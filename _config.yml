@@ -15,14 +15,14 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ru-RU"
 title                    : "Развлечения ради"
 title_separator          : "-"
-name                     : "Anton Palikhov aka Palant"
-description              : "Руководство по Roll20 и прочее связанное с D&D"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Anton Palikhov aka Palant"
+description              : &description "Руководство по Roll20 и прочее связанное с D&D"
+url                      : https://palikhov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "palikhov/palikhov.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,9 +77,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "AVPalikhov"
 facebook:
-  username               :
+  username               : &facebook "a.palikhov"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -89,6 +89,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  - "https://www.facebook.com/a.palikhov"
+  - "https://twitter.com/AVPalikhov"
 
 # Analytics
 analytics:
@@ -102,16 +104,16 @@ analytics:
 author:
   name             : "Anton Palikhov aka Palant"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Arcanist"
+  bio              : "Всего навсего еще один энтузиаст"
   location         : "Ukraine"
   email            : "a.v.palikhov@outlook.com"
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  uri              : "https://palikhov.wordpress.com"
+  home             : "https://palikhov.wordpress.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "a.palikhov"
+  facebook         : *facebook"
   foursquare       :
   github           : "palikhov"
   gitlab           :
@@ -125,7 +127,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "AVPalikhov"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
@@ -189,6 +191,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  roll20-guide:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -272,7 +279,7 @@ defaults:
       related: true
   # _roll20-guide
   - scope:
-      path: "_roll20-guide"
+      path: ""
       type: roll20-guide
     values:
       layout: single
