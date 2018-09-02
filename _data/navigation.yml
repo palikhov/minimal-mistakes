@@ -8,8 +8,8 @@ main:
     url: https://google.com
     
 # sidebar navigation list sample
-sidebar-sample:
-  - title: "Parent Page A"
+docs:
+  - title: "Базовое руководство"
     children:
       - title: "Child Page A1"
         url: /
@@ -19,7 +19,7 @@ sidebar-sample:
         url: /
       - title: "Child Page A4"
         url: /
-  - title: "Parent Page B"
+  - title: "Руководство для продвинутых пользователей"
     children:
       - title: "Child Page B1"
         url: /
@@ -31,10 +31,10 @@ sidebar-sample:
         url: /
       - title: "Child Page B5"
         url: /
-  - title: "Parent Page C"
+  - title: "5e OGL by Roll20"
     children:
-      - title: "Child Page C1"
-        url: /
+      - title: "Руководство игрока"
+        url: /roll20-guide/players-ogl-guide/
       - title: "Child Page C2"
         url: /
       - title: "Child Page C3"
