@@ -271,7 +271,7 @@ defaults:
       related: true
   # _roll20-guide
   - scope:
-      path: ""
+      path: "_roll20-guide"
       type: roll20-guide
     values:
       layout: single
