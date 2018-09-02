@@ -269,10 +269,10 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _roll20-wiki
+  # _roll20-guide
   - scope:
       path: ""
-      type: docs
+      type: roll20-guide
     values:
       layout: single
       read_time: false
@@ -280,4 +280,4 @@ defaults:
       share: true
       comments: true
       sidebar:
-        nav: "roll20-wiki"
+        nav: "roll20-guide"
