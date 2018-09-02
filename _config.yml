@@ -192,7 +192,7 @@ kramdown:
 
 # Collections
 collections:
-  roll20-guide:
+  docs:
     output: true
     permalink: /:collection/:path/
 
@@ -276,4 +276,16 @@ defaults:
       comments: # true
       share: true
       related: true
+   #_roll20-guide
+  - scope:
+      path: ""
+      type: roll20-guide
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "roll20-guide"
  
