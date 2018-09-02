@@ -17,7 +17,7 @@ main:
     
 # roll20 wiki links
 roll20-wiki:
-  - title: Общие вопросы и руководства по Roll20
+  - title: "Общие вопросы и руководства по Roll20"
     children:
       - title: "Руководство Паланта по настройке Roll20"
         url: /roll20-wiki/palant-roll20-guide/
@@ -37,19 +37,19 @@ roll20-wiki:
         url: /roll20-wiki/roll20-stylish/
         - title: "Полезные трюки"
         url: /roll20-wiki/roll20-tricks/
-  - title: D&D 5e OGL by Roll20
+  - title: "D&D 5e OGL by Roll20"
     children:
       - title: "Руководство для игроков OGL"
         url: /roll20-wiki/players-guide-ogl/
       - title: "Руководство для мастеров OGL"
         url: /roll20-wiki/dm-guide-ogl/
-  - title: 5e Shaped
+  - title: "5e Shaped"
     children:
       - title: "Руководство для игроков Shaped"
         url: /roll20-wiki/players-guide-shaped/
       - title: "Руководство для мастеров Shaped"
         url: /roll20-wiki//dm-guide-shaped/
-  - title: Дополнения Excel Companion (Shaped)
+  - title: "Дополнения Excel Companion (Shaped)"
     children:
       - title: "Roll20 NPC Companion"
         url: /roll20-wiki/shaped-excel-npc/
