@@ -1,6 +1,6 @@
 ---
 title: "Руководство Паланта по Roll20"
-permalink: /roll20-guide/
+permalink: /roll20-guide/main/
 excerpt: "Что можно узнать в данном руководстве"
 toc: true
 ---
