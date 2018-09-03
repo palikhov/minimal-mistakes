@@ -6,7 +6,7 @@ output: true
 toc: true
 ---
 
-#Заметки и Журнал
+# Заметки и Журнал
 
 Заметки - Handouts
 
