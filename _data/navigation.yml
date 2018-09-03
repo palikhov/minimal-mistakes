@@ -6,10 +6,7 @@ main:
     url: /about/
   - title: "Roll20 Guide"
     url: /roll20-guide/main/
-  - title: "Sample Page"
-    url: /sample-page/
-  - title: "External Link"
-    url: https://google.com
+
     
 # sidebar navigation list sample
 roll20-guide:
