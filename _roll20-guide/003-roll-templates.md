@@ -17,6 +17,7 @@ toc: true
 `
     &{template:default} {{name=Test Attack}} {{attack=[[1d20]]}} {{damage=[[2d6]]}}
 `
+
 ![Roll template default example](https://raw.githubusercontent.com/palikhov/palant_roll20_setup/master/img/img-Roll_template_default_example-01.JPG)
 
 
