@@ -14,9 +14,9 @@ toc: true
 
 Использование шаблона бросков абсолютно не сложно. Просто включите специальный параметр в вашем сообщении в чате который скажет Roll20 что вы хотите использовать шаблон бросков и потом предоставьте всю информацию которую вы хотите использовать. Ниже приведен пример, который использует шаблон бросков по умолчанию ("default") (к которому имеют доступ все игры вне зависимости от выбранного листа персонажа).:
 
-```
+`
     &{template:default} {{name=Test Attack}} {{attack=[[1d20]]}} {{damage=[[2d6]]}}
-```
+`
 ![Roll template default example](https://raw.githubusercontent.com/palikhov/palant_roll20_setup/master/img/img-Roll_template_default_example-01.JPG)
 
 
@@ -25,9 +25,9 @@ toc: true
 
 Ниже приведен пример который использует способность "%{Character|attack}":
 
-```
+`
     &{template:default} {{name=Test With Ability}} {{attack= %{Character_Name|attack} }} {{damage= #damagemacro }}
-```
+`
 
 ## Где я могу использовать шаблоны бросков?
 
@@ -46,9 +46,9 @@ toc: true
 
 Базовый шаблон является особенным и будет показывать все аргументы которые вы ему даете в виде таблицы. Например, вы можете сделать следующее 
 
-```
+`
     &{template:default} {{name=Test Attack}} {{attack=[[1d20]]}} {{note= This is some note content}} {{Saving Throw= vs Will}}
-```
+`
 
 И результат будет ниже
 
