@@ -27,7 +27,7 @@ toc: true
 Ниже приведен пример который использует способность "%{Character|attack}":
 
 `
-    &{template:default} {{name=Test With Ability}} {{attack= %{Character_Name|attack} }} {{damage= #damagemacro }}
+    &{template:default} {{name=Test With Ability}} {{attack= %{Character_Name|attack}}} {{damage= #damagemacro }}
 `
 
 ## Где я могу использовать шаблоны бросков?
