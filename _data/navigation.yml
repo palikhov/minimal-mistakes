@@ -47,16 +47,11 @@ roll20-guide:
         url: /
       - title: "Child Page C5"
         url: /
-   - title: "5e shaped"
+  - title: "Прочие полезности"
     children:
-      - title: "Руководство игрока"
-        url: /roll20-guide/players-shaped-guide/
-      - title: "Child Page D2"
-        url: /
-      - title: "Child Page D3"
-        url: /
-      - title: "Child Page D4"
-        url: /
-      - title: "Child Page D5"
-        url: /       
+      - title: "Пользовательские скрипты bookmarklets"
+        url: /roll20-guide/bookmarklets/
+      - title: "Полезные ссылки"
+        url: /roll20-guide/useful-links/
+
 
