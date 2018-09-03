@@ -1,3 +1,14 @@
+
+---
+title: "Руководство по Roll20 от Паланта"
+permalink: /roll20-guide/useful-links/
+excerpt: "Как удобно использовать Roll20 при игре в D&D 5e онлайн"
+output: true
+toc: true
+---
+
+
+
 * Вики ролл20 https://wiki.roll20.net/Main_Page 
 * Общая инструкция по чату: https://wiki.roll20.net/Text_Chat 
 * Основы макросов: https://wiki.roll20.net/Macros 
