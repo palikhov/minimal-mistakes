@@ -25,4 +25,13 @@ roll20-guide:
         url: /roll20-guide/roll-templates/
       - title: "Полезные мелочи в Roll20"
         url: /roll20-guide/useful-tricks/
- 
+  - title: "Руководство для продвинутых пользователей"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Журнал и заметки"
+        url: /roll20-guide/journal/
+      - title: "Child Page B3"
+        url: /
+      - title: "Руководство по макросам для игроков"
+        url: /roll20-guide/advanced-players-macros-guide/
