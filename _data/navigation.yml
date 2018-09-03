@@ -23,7 +23,6 @@ roll20-guide:
         url: /roll20-guide/token-actions/
       - title: "Шаблоны бросков"
         url: /roll20-guide/roll-templates/
-
       - title: "Полезные мелочи в Roll20"
         url: /roll20-guide/useful-tricks/
   - title: "Руководство для продвинутых пользователей"
