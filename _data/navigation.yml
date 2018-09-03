@@ -35,3 +35,15 @@ roll20-guide:
         url: /
       - title: "Руководство по макросам для игроков"
         url: /roll20-guide/advanced-players-macros-guide/
+  - title: "5e OGL by Roll20"
+    children:
+      - title: "Руководство игрока"
+        url: /roll20-guide/players-ogl-guide/
+      - title: "Child Page C2"
+        url: /
+      - title: "Child Page C3"
+        url: /
+      - title: "Child Page C4"
+        url: /
+      - title: "Child Page C5"
+        url: /
