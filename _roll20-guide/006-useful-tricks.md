@@ -1,4 +1,3 @@
-
 ---
 title: "Руководство по Roll20 от Паланта"
 permalink: /roll20-guide/useful-tricks/
@@ -6,6 +5,8 @@ excerpt: "Как удобно использовать Roll20 при игре в
 output: true
 toc: true
 ---
+
+
 
 ### Быстро открыть лист персонажа
 
