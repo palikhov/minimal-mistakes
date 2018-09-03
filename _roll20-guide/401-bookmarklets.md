@@ -1,3 +1,11 @@
+---
+title: "Руководство по Roll20 от Паланта"
+permalink: /roll20-guide/bookmarklets/
+excerpt: "Как удобно использовать Roll20 при игре в D&D 5e онлайн"
+output: true
+toc: true
+---
+
 ## Что такое букмарклет
 
 ```
