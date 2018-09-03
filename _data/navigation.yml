@@ -21,22 +21,21 @@ roll20-guide:
         url: /roll20-guide/how-to-pc-token/
       - title: "Действия токена"
         url: /roll20-guide/token-actions/
-      - title: "Child Page A3"
-        url: /
+      - title: "Шаблоны бросков"
+        url: /roll20-guide/roll-templates/
+
       - title: "Полезные мелочи в Roll20"
         url: /roll20-guide/useful-tricks/
   - title: "Руководство для продвинутых пользователей"
     children:
       - title: "Child Page B1"
         url: /
-      - title: "Использование Журнала (Journal) в Roll20"
-        url: /roll20-guide/journal-roll20/
+      - title: "Журнал и заметки"
+        url: /roll20-guide/journal/
       - title: "Child Page B3"
         url: /
       - title: "Руководство по макросам для игроков"
         url: /roll20-guide/advanced-players-macros-guide/
-      - title: "Пользовательские скрипты bookmarklets"
-        url: /roll20-guide/bookmarklets/
   - title: "5e OGL by Roll20"
     children:
       - title: "Руководство игрока"
@@ -49,9 +48,21 @@ roll20-guide:
         url: /
       - title: "Child Page C5"
         url: /
-  - title: "Parent Page D"
+   - title: "5e shaped"
     children:
-      - title: "Child Page D1"
+      - title: "Руководство игрока"
+        url: /roll20-guide/players-shaped-guide/
+      - title: "Child Page D2"
         url: /
+      - title: "Child Page D3"
+        url: /
+      - title: "Child Page D4"
+        url: /
+      - title: "Child Page D5"
+        url: /       
+  - title: "Прочие полезности"
+    children:
+      - title: "Пользовательские скрипты bookmarklets"
+        url: /roll20-guide/bookmarklets/
       - title: "Полезные ссылки"
-        url: /
+        url: /roll20-guide/useful-links/
