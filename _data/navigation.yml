@@ -6,10 +6,10 @@ main:
     url: /about/
   - title: "Roll20 Guide"
     url: /roll20-guide/main/
-  - title: "MSO"
+  - title: "mso"
     url: /mso/
   - title: "D&D"
-    url: /D&D/
+    url: /dnd/
     
 # sidebar for roll20-guide
 roll20-guide:
