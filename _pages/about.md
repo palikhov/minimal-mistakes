@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 excerpt: "about"
 toc: true
+author_profile: false
 sidebar:
   - title: "Title"
     image: http://placehold.it/350x250
