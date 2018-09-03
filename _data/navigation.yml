@@ -17,24 +17,26 @@ roll20-guide:
     children:
       - title: "Child Page A1"
         url: /roll20-guide/main/
+      - title: "Как создать токен персонажа"
+        url: /roll20-guide/how-to-pc-token/
       - title: "Действия токена"
         url: /roll20-guide/token-actions/
       - title: "Child Page A3"
         url: /
-      - title: "Child Page A4"
-        url: /
+      - title: "Полезные мелочи в Roll20"
+        url: /roll20-guide/useful-tricks/
   - title: "Руководство для продвинутых пользователей"
     children:
       - title: "Child Page B1"
         url: /
-      - title: "Child Page B2"
-        url: /
+      - title: "Использование Журнала (Journal) в Roll20"
+        url: /roll20-guide/journal-roll20/
       - title: "Child Page B3"
         url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
+      - title: "Руководство по макросам для игроков"
+        url: /roll20-guide/advanced-players-macros-guide/
+      - title: "Пользовательские скрипты bookmarklets"
+        url: /roll20-guide/bookmarklets/
   - title: "5e OGL by Roll20"
     children:
       - title: "Руководство игрока"
@@ -51,5 +53,5 @@ roll20-guide:
     children:
       - title: "Child Page D1"
         url: /
-      - title: "Child Page D2"
+      - title: "Полезные ссылки"
         url: /
