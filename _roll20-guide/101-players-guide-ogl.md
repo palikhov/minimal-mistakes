@@ -1,7 +1,7 @@
 ---
 title: "Руководство по Roll20 от Паланта"
-permalink: /roll20-guide/main/
-excerpt: "Как удобно использовать Roll20 при игре в D&D 5e онлайн"
+permalink: /roll20-guide/players-ogl-guide/
+excerpt: "Руководство игрока по листу персонажа 5e OGL"
 output: true
 toc: true
 ---
