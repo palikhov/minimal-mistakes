@@ -17,8 +17,8 @@ roll20-guide:
     children:
       - title: "Child Page A1"
         url: /roll20-guide/main/
-      - title: "Child Page A2"
-        url: /
+      - title: "Действия токена"
+        url: /roll20-guide/token-actions/
       - title: "Child Page A3"
         url: /
       - title: "Child Page A4"
