@@ -53,9 +53,4 @@ roll20-guide:
         url: /roll20-guide/bookmarklets/
       - title: "Полезные ссылки"
         url: /roll20-guide/useful-links/
-    - title: "Расширение функционала Roll20"
-    children:
-      - title: "Roll20 ES "
-        url: /roll20-guide/roll20-es/
-      - title: "Better R20"
-        url: /roll20-guide/better-r20/ 
+ 
