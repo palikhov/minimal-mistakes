@@ -371,11 +371,7 @@ Attack 3
 
 Список трех основных атак
 
-~~~
-/w @{selected|character_name} &{template:npcaction} {{rname=Checks}} {{description=Select Attack
-[@{selected|repeating_attack_$0_atkname}](~selected|repeating_attack_$0_attack)[@{selected|repeating_attack_$1_atkname}](~selected|repeating_attack_$1_attack) [@{selected|repeating_attack_$2_atkname}](~selected|repeating_attack_$2_attack)
-}}
-~~~
+
 
 
 Tool 1
