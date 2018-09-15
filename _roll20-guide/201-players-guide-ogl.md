@@ -333,9 +333,7 @@ Extra damage of Staff of Power
 
 В разделе Description (Описание) записать следующую часть формата
 
-~~~
-}} {{r1=[[1d20cs>@{atkcritrange} + [[@{atkattr_base}]] @{atkmod} + [[@{atkprofflag}]][PROF]?{Bless|No, |Yes, + 1d4cs>5cf<0[Bless]}?{Sacred|No, |Yes, + [[@{charisma_mod}]][Sacred]}]]}} {{r2=[[1d20cs>@{atkcritrange} + [[@{atkattr_base}]] @{atkmod} + [[@{atkprofflag}]][PROF]?{Bless}?{Sacred}]]
-~~~
+~~~}} {{r1=[[1d20cs>@{atkcritrange} + [[@{atkattr_base}]] @{atkmod} + [[@{atkprofflag}]][PROF]?{Bless|No, |Yes, + 1d4cs>5cf<0[Bless]}?{Sacred|No, |Yes, + [[@{charisma_mod}]][Sacred]}]]}} {{r2=[[1d20cs>@{atkcritrange} + [[@{atkattr_base}]] @{atkmod} + [[@{atkprofflag}]][PROF]?{Bless}?{Sacred}]]~~~
 
 
 ### Макросы
