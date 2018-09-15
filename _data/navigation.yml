@@ -47,10 +47,5 @@ roll20-guide:
         url: /
       - title: "Child Page C5"
         url: /
-  - title: "Прочие полезности"
-    children:
-      - title: "Пользовательские скрипты bookmarklets"
-        url: /roll20-guide/bookmarklets/
-      - title: "Полезные ссылки"
-        url: /roll20-guide/useful-links/
+
  
