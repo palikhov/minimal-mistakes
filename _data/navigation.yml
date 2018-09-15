@@ -53,6 +53,12 @@ roll20-guide:
         url: /roll20-guide/bookmarklets/
       - title: "Полезные ссылки"
         url: /roll20-guide/useful-links/
+    - title: "Расширение функционала Roll20 "
+    children:
+      - title: "Roll20 ES "
+        url: /roll20-guide/Roll20-ES/
+      - title: "Better R20"
+        url: /roll20-guide/better-r20/ 
 # sidebar for mso
 mso:
   - title: "MSO1"
