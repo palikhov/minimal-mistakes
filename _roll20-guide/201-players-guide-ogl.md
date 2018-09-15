@@ -420,7 +420,7 @@ Favorite Spells
 
 Макрос урона по нескольким попаданиям
 ~~~
-&{template:npcaction} {{name=Skeleton Bow}} {{rname=Ranged Damage}}{{description=Rolling damage for ?{Number of hits?} hits, ?{Crit damage dice?} of which were critical. [[?{Number of hits?}d8+?{Number of hits?}*7+?{Crit damage dice?}d8]] piercing damage total.}}
+
 ~~~
 
 ### Горячие клавиши
