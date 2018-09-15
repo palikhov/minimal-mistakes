@@ -401,18 +401,7 @@ Favorite Spells
 Использован скрипт: Powercards
 
 ~~~
-!power {{
---format|bigbad
---orowbg|#CEC7B6
---erowbg|#CEC7B6
---name|Spell List
---tokenid|@{selected|token_id}
---emote|@{selected|character_name}
---leftsub|Atk Bonus: @{selected|spell_attack_bonus}
---rightsub|Save DC: @{selected|spell_save_dc}
---spell_slots|@{selected|character_id}
---spell_list|@{selected|character_id}
-}}
+
 ~~~
 
 
@@ -426,7 +415,7 @@ Favorite Spells
 
 Макрос атаки наемников, скелетов
 ~~~
-{{rname=[ranged Attacks](~skeleton-bow-damage)}}{{description=[[{?{Number of attacks?}d20+4}>@{target|enemy|npc_ac}]] hits on ?{Number of attacks?} attacks vs. @{target|enemy|npc_name} (AC @{target|enemy|npc_ac})
+
 ~~~
 
 Макрос урона по нескольким попаданиям
