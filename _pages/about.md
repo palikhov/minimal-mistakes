@@ -31,14 +31,7 @@ about text
 
 ### Heading 1.3.1
 
-### Как экранировать код в Jekyll+Liquid
-~~~
-{% raw %}{% raw %}{% endraw %}
+[Как экранировать код в Jekyll+Liquid](https://help.shopify.com/en/themes/liquid/tags/theme-tags#raw)
 
-КОД
-
-{% raw %}{% endraw %}{% endraw %}
-
-~~~
 
 # Heading 2
