@@ -32,6 +32,8 @@ about text
 ### Heading 1.3.1
 
 ### Как экранировать код в Jekyll+Liquid
+{% raw %} 
+~~~
 ```
 {% raw %} 
 ~~~
@@ -40,4 +42,8 @@ about text
 
 {% endraw %}
 ```
+~~~
+
+{% endraw %}
+
 # Heading 2
