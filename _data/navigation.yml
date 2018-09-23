@@ -39,8 +39,8 @@ roll20-guide:
     children:
       - title: "Руководство игрока"
         url: /roll20-guide/players-ogl-guide/
-      - title: "Child Page C2"
-        url: /
+      - title: "Руководство Мастера"
+        url: /roll20-guide/dm-ogl-guide/
       - title: "Child Page C3"
         url: /
       - title: "Child Page C4"
@@ -51,8 +51,8 @@ roll20-guide:
     children:
       - title: "Руководство игрока"
         url: /roll20-guide/players-shaped-guide/
-      - title: "Child Page D2"
-        url: /
+      - title: "Руководство Мастера"
+        url: /roll20-guide/dm-shaped-guide/
       - title: "Child Page D3"
         url: /
       - title: "Child Page D4"
