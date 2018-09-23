@@ -1,4 +1,3 @@
-
 ---
 title: "Руководство по Roll20 от Паланта"
 permalink: /roll20-guide/players-shaped-guide/
