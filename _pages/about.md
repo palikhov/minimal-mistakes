@@ -32,12 +32,13 @@ about text
 ### Heading 1.3.1
 
 ### Как экранировать код в Jekyll+Liquid
-{% raw %} 
 ~~~
-{% raw %} 
+{% raw %}{% raw %}{% endraw %}
+
 КОД
-{% endraw %}
+
+{% raw %}{% endraw %}{% endraw %}
+
 ~~~
-{% endraw %}
 
 # Heading 2
