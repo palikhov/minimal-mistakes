@@ -47,16 +47,27 @@ roll20-guide:
         url: /
       - title: "Child Page C5"
         url: /
-  - title: "5e OGL by Roll20"
+  - title: "5e shaped"
     children:
       - title: "Руководство игрока"
-        url: /roll20-guide/players-ogl-guide/
+        url: /roll20-guide/players-shaped-guide/
+      - title: "Child Page D2"
+        url: /
+      - title: "Child Page D3"
+        url: /
+      - title: "Child Page D4"
+        url: /
+      - title: "Child Page D5"
+        url: /
+  - title: "Полезное для продвинутых"
+    children:
+      - title: "DM MACROS"
+        url: /roll20-guide/dm-macros-1/
       - title: "Child Page C2"
         url: /
       - title: "Child Page C3"
         url: /
       - title: "Child Page C4"
         url: /
-      - title: "Child Page C5"
-        url: /
- 
+      - title: "Полезные ссылки"
+        url: /roll20-guide/useful-links/ 
