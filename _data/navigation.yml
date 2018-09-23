@@ -76,11 +76,11 @@ roll20-guide:
     - title: "Полезное для D&D 5e"
     children:
       - title: "OneNote for D&D 5e"
-        url: /dnd/onenote-dnd-5e/
+        url: /
       - title: "Список полезных ресурсов (англоязычных)"
-        url: /dnd/useful-resources-links-english/
+        url: /
       - title: "Список полезных ресурсов (русскоязычных)"
-        url: /dnd/useful-resources-links-russian/
+        url: /
       - title: "Child Page C4"
         url: /
       - title: "Полезные ссылки"
