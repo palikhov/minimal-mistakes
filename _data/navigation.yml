@@ -10,12 +10,7 @@ main:
     url: /mso/
   - title: "D&D"
     url: /dnd/
-# sidebar for dnd
-dnd:
-- title: "D&D resources"
-  children:
-       - title: "Child Page B3"
-       url: /
+
 
 
 # sidebar for roll20-guide
