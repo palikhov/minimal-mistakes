@@ -1,3 +1,13 @@
+---
+title: "MSO"
+permalink: /mso/
+excerpt: "Microsoft Office"
+output: true
+toc: true
+---
+
+
+
 # Readme
 
 ## Excel macros
