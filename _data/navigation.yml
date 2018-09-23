@@ -63,11 +63,26 @@ roll20-guide:
     children:
       - title: "DM MACROS"
         url: /roll20-guide/dm-macros-1/
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
+      - title: "Roll20 Enhancement Suite"
+        url: /roll20-guide/roll20-es/
+      - title: "Better R20 tools"
+        url: /roll20-guide/better-r20/
+      - title: "External Art Library"
+        url: /roll20-guide/external-art-library/
+      - title: "Rollable Table Library"
+        url: /roll20-guide/rollable-table-library/
+      - title: "Полезные ссылки"
+        url: /roll20-guide/useful-links/
+    - title: "Полезное для D&D 5e"
+    children:
+      - title: "OneNote for D&D 5e"
+        url: /dnd/onenote-dnd-5e/
+      - title: "Список полезных ресурсов (англоязычных)"
+        url: /dnd/useful-resources-links-english/
+      - title: "Список полезных ресурсов (русскоязычных)"
+        url: /dnd/useful-resources-links-russian/
       - title: "Child Page C4"
         url: /
       - title: "Полезные ссылки"
         url: /roll20-guide/useful-links/ 
+
