@@ -73,8 +73,3 @@ roll20-guide:
         url: /roll20-guide/rollable-table-library/
       - title: "Полезные ссылки"
         url: /roll20-guide/useful-links/
-    - title: "Полезное для D&D 5e"
-    children:
-       - title: "Полезные ссылки"
-        url: /roll20-guide/useful-links/ 
-
