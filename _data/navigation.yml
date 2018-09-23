@@ -75,14 +75,6 @@ roll20-guide:
         url: /roll20-guide/useful-links/
     - title: "Полезное для D&D 5e"
     children:
-      - title: "OneNote for D&D 5e"
-        url: /
-      - title: "Список полезных ресурсов (англоязычных)"
-        url: /
-      - title: "Список полезных ресурсов (русскоязычных)"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Полезные ссылки"
+       - title: "Полезные ссылки"
         url: /roll20-guide/useful-links/ 
 
