@@ -31,6 +31,13 @@ about text
 
 ### Heading 1.3.1
 
-### Heading 1.3.2
+### Как экранировать код в Jekyll+Liquid
+```
+{% raw %} 
+~~~
+КОД
+~~~
 
+{% endraw %}
+```
 # Heading 2
