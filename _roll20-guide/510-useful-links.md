@@ -18,6 +18,19 @@ toc: true
 
 [Poltergeisha]()
 
+## Расширения для Roll20
+
+[Better R20 tools]()
+
+[5etools Wiki](http://5etools.wikia.com/wiki/5eTool_Wiki)
+
+[Roll20 Enhancement Suite for Chrome](https://chrome.google.com/webstore/detail/roll20-enhancement-suite/fadcomaehamhdhekodcpiglabcjkepff)
+
+[Roll20 Enhancement Suite for Firefox](https://addons.mozilla.org/en-US/firefox/addon/roll20-enhancement-suite/)
+
+[Tampermonkey](https://tampermonkey.net/)
+
+[Stylish]()
 
 ## Документация по листам персонажа
 
