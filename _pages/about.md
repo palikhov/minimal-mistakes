@@ -34,16 +34,10 @@ about text
 ### Как экранировать код в Jekyll+Liquid
 {% raw %} 
 ~~~
-```
 {% raw %} 
-~~~
 КОД
-~~~
-
 {% endraw %}
-```
 ~~~
-
 {% endraw %}
 
 # Heading 2
