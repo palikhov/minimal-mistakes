@@ -298,10 +298,10 @@ defaults:
       comments: true
       sidebar:
         nav: "roll20-guide"
- #_mso
+ #_microsoft-office
   - scope:
       path: ""
-      type: mso
+      type: microsoft-office
     values:
       layout: single
       read_time: true
@@ -309,7 +309,7 @@ defaults:
       share: true
       comments: true
       sidebar:
-        nav: "mso"
+        nav: "microsoft-office"
 #_mso
   - scope:
       path: ""

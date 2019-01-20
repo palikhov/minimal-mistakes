@@ -75,3 +75,19 @@ roll20-guide:
         url: /roll20-guide/rollable-table-library/
       - title: "Полезные ссылки"
         url: /roll20-guide/useful-links/
+
+
+# sidebar for roll20-guide
+microsoft-office:
+  - title: "Базовое руководство"
+    children:
+      - title: "Child Page A1"
+        url: /roll20-guide/main/
+      - title: "Как создать токен персонажа"
+        url: /roll20-guide/how-to-pc-token/
+      - title: "Действия токена"
+        url: /roll20-guide/token-actions/
+      - title: "Шаблоны бросков"
+        url: /roll20-guide/roll-templates/
+      - title: "Полезные мелочи в Roll20"
+        url: /roll20-guide/useful-tricks/
