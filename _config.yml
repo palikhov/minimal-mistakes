@@ -195,7 +195,7 @@ collections:
   roll20-guide:
     output: true
     permalink: /:collection/:path/
-  mso:
+  microsoft-office:
     output: true
     permalink: /:collection/:path/
   dnd:
@@ -271,6 +271,9 @@ compress_html:
 # Collections
 collections:
   roll20-guide:
+    output: true
+collections:
+  microsoft-office:
     output: true
 
 # Defaults
