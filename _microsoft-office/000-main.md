@@ -6,8 +6,6 @@ output: true
 toc: true
 ---
 
-
-
 # Readme
 
 ## Excel macros
