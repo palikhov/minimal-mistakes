@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Office - мой опыт"
-permalink: /microsoft-office/
+permalink: /microsoft-office/main/
 excerpt: "Microsoft Office"
 output: true
 toc: true
