@@ -2,14 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Roll20 Guide"
-    url: /roll20-guide/main/
   - title: "Microsoft Office"
     url: /microsoft-office/
-  - title: "D&D"
-    url: /dnd/
-
-
+  - title: "Библиотека UKEN"
+    url: https://palikhov.github.io/Library-project-uken/
+  - title: "Полезные ссылки"
+    url: /useful-links/
 
 # sidebar for roll20-guide
 roll20-guide:
@@ -81,8 +79,18 @@ microsoft-office:
     children:
       - title: "Child Page A1"
         url: /about/
-# tutorial and my documentation for Jekyll + MM
 
+# tutorial and my documentation for Jekyll + MM
 helpdesk:
-    - title: "Quick-Start Guide"
+    - title: "Guide to Mininmal Mistakes"
       url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+# sidebar with links on Github pages
+
+gh-pages:
+  - title: "UKEN Project Library"
+    url: https://palikhov.github.io/Library-project-uken/
+  - title: "D&D 5e Palant edition"
+    url: https://palikhov.github.io/DnD_Palant_edition/
+  - title: "Palant Roll20 Guide"
+    url:
