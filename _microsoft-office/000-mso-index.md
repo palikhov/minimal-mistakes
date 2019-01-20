@@ -1,6 +1,6 @@
 ---
-title: "MSO"
-permalink: /mso/
+title: "Microsoft Office - мой опыт"
+permalink: /microsoft-office/
 excerpt: "Microsoft Office"
 output: true
 toc: true
@@ -20,3 +20,5 @@ toc: true
 
 ## Visio
 
+
+END

@@ -19,7 +19,7 @@ locale                   : "ru-RU"
 title                    : "Развлечения ради"
 title_separator          : "-"
 name                     : &name "Anton Palikhov aka Palant"
-description              : &description "Руководство по Roll20 и прочее связанное с D&D"
+description              : &description "Просто проекты на GitHub"
 url                      : "https://palikhov.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "palikhov/palikhov.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,7 +116,7 @@ author:
   facebook         : *facebook
   foursquare       :
   github           : "palikhov"
-  gitlab           :
+  gitlab           : "palikhov"
   google_plus      :
   keybase          :
   instagram        :

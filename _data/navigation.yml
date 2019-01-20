@@ -6,8 +6,8 @@ main:
     url: /about/
   - title: "Roll20 Guide"
     url: /roll20-guide/main/
-  - title: "mso"
-    url: /mso/
+  - title: "Microsoft Office"
+    url: /microsoft-office/
   - title: "D&D"
     url: /dnd/
 
