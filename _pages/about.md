@@ -12,9 +12,6 @@ sidebar:
   - title: "Another Title"
     text: "More text here."
 ---
-
-about text
-
 # Heading 1
 
 ## Heading 1.1
