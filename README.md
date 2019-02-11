@@ -1,3 +1,6 @@
+# [Бібліотека по Microsoft Dynamics AX 2012 ](https://palikhov.github.io/Library-project-uken/)
+
+Сборище недознаний.
 
 ***
 
